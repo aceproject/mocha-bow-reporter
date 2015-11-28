@@ -13,3 +13,15 @@ Basically, have your project's package.json be like:
 Then call mocha with:
 
 mocha --reporter mocha-bow-reporter test
+
+
+Then you got the cute dog!
+
+``` js
+15  -_-_-_-_-_-_-_-_-_-_- /)_/)
+0   -_-_-_-_-_-_-_-_-_-_ < ^ .^>
+0   -_-_-_-_-_-_-_-_- ﾉ) /　　|
+    -_-_-_-_-_-_-_-_- ＼(＿＿_)
+15 passing (22ms)
+
+```
